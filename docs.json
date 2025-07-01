@@ -56,10 +56,28 @@
         ]
       },
       {
-        "tab": "Loyalty & Rewards",
+        "tab": "Loyalty, Rewards & Promotions",
         "groups":[
           {
             "group": "Getting Started",
+            "pages":[
+              "loyalty-rewards/introduction"
+            ]
+          },
+          {
+            "group": "Rewards",
+            "pages":[
+              "loyalty-rewards/introduction"
+            ]
+          },
+          {
+            "group": "Promotions",
+            "pages":[
+              "loyalty-rewards/introduction"
+            ]
+          },
+          {
+            "group": "Loyalty Card",
             "pages":[
               "loyalty-rewards/introduction"
             ]
