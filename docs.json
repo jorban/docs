@@ -54,7 +54,19 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Loyalty & Rewards",
+        "groups":[
+          {
+            "group": "Getting Started",
+            "pages":[
+              "loyalty-rewards/introduction"
+            ]
+          }
+        ]
       }
+      
     ],
     "global": {
       "anchors": [
