@@ -87,8 +87,8 @@
     }
   },
   "logo": {
-    "light": "/logo/lightghlptlogo.png",
-    "dark": "/logo/lightghlptlogo.png"
+    "light": "/logo/light-ghlptlogo.png",
+    "dark": "/logo/light-ghlptlogo.png"
   },
   "navbar": {
     "links": [
