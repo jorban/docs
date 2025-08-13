@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "willow",
   "name": "GHL Power Tools",
   "colors": {
     "primary": "#16A34A",
@@ -69,19 +69,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Community",
           "href": "https://join.slack.com/t/ghlpowertools/shared_invite/zt-2ooecf3hv-a1Vo7yS5kna3mSmcjxUv3A",
           "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
